@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.firstsection{
+    background-image: url(./image/nastuh-abootalebi-yWwob8kwOCk-unsplash\ \(1\).jpg);
+    height: 30rem;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.349);
+}
+.stage{
+    color: white;
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
+nav{
+    display: flex;
+}
+ul{
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 22rem;
+}
+li{
+    list-style: none;
+    margin-left: 12%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.call{
+    color: white;
+}
+.num{
+    color: orangered;
+}
+.navlast{
+    margin-left: 27rem;
+    margin-top: 1rem;
+}
+.middletext{
+    width: 25rem;
+    color: white;
+    text-align: center;
+    margin: 6rem auto 0 auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 10rem;
+}
+button{
+    color: aliceblue;
+    background-color: transparent;
+    border-color: aliceblue;
+    margin-top: 3rem;
+}.secondimage{
+    height: 7rem;
+    width: 13rem;
+    margin: 1.5rem 15rem 0 1rem;
+    border-block-end: 3rem;
+    background-color: black;
+}
+.who{
+    color: rgb(235, 152, 29);
+    text-size-adjust: 2px;
+    margin: 3rem 0 0 16rem;
+    width: 8rem;
+    font-size: 0.5rem;
+}
+.secondpart{
+    display: flex;
+}
+.we{
+    margin: 0 0 0 16rem;
+    width: 11rem;
+    font-family: trebuchet;
+}
+.moto{
+    font-size: 0.5rem;
+    width: 15rem;
+    margin: 0 0 0 16rem;
+    color:gray
+}
